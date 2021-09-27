@@ -5,7 +5,7 @@ Hi, I'm Aya! I am a web Developer. I love learing new technology and skills of w
 
 <h3> :woman: &nbsp;About Me </h3>
 
-- 🔭  I’m currently a college student 
+- 🔭  I’m currently work as front-end web Developer 
 - 👯 I’m always looking to collaborate with more Open Source projects
 - 💬 Ask me about: anything, I am happy to help
 - 🖤 Interests:  travel,nature , photography ,reading , learning new stuff
