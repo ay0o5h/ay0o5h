@@ -22,7 +22,9 @@ Hi, I'm Aya! I am a web Developer and mobile Developer. I love learning new tech
 [<img align="left" alt="ay0o5h | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:aayosh553@gmail.com)
 
 <br/>
-<h3><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> &nbsp; Languages & Tools I Know... </h3>
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
+<br/>
+<h3>  Languages & Tools I Know... </h3>
 
  
    
