@@ -1,11 +1,11 @@
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Aya </h1>
 
-Hi, I'm Aya! I am a web Developer. I love learing new technology and skills of web, I want to work at others country, talk a lot with all sort of people and know more about this world 🤓.
+Hi, I'm Aya! I am a web Developer and mobile Developer. I love learing new technology and skills , I want to work at others country, talk a lot with all sort of people and know more about this world 🤓.
 
 <h3> :woman: &nbsp;About Me </h3>
 
-- 🔭  I’m currently work as front-end web Developer 
+- 🔭  I’m currently work as Mobile Developer and front-end web Developer 
 - 👯 I’m always looking to collaborate with more Open Source projects
 - 💬 Ask me about: anything, I am happy to help
 - 🖤 Interests:  travel,nature , photography ,reading , learning new stuff
