@@ -45,6 +45,7 @@ Hi, I'm Aya! I am a web Developer and mobile Developer. I love learning new tech
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="xcode"  height="30"/></code>
 <code><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" height="30"/> </code>
 <code><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="30"/> </code>
+<code><img src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true"  height="30" width="30px" alt="Flutter Logo which can be rendered by this package!"></code>
 <br/> 
 <p>
 
