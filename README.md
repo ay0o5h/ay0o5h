@@ -5,7 +5,7 @@ Hi, I'm Aya! I am a web Developer and mobile Developer. I love learning new tech
 
 <h3> :woman: &nbsp;About Me </h3>
 
-- 🔭  I’m currently work as Mobile Developer and Mobile Developer
+- 🔭  I’m currently work as Mobile Developer 
 - 👯 I’m always looking to collaborate with more Open Source projects
 - 💬 Ask me about: anything, I am happy to help
 - 🖤 Interests:  travel,nature , photography ,reading , learning new stuff
