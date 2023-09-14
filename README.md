@@ -3,7 +3,7 @@
 
 Hi, I'm Aya! I am a Mobile Developer. I love learning new technology and skills , I want to work at others country, talk a lot with all sort of people and know more about this world 🤓.
 
-<h3> :woman: &nbsp;About Me </h3>
+<h3> :woman: &nbsp;About Me <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> </h3>
 
 - 🔭  I’m currently work as Mobile Developer 
 - 👯 I’m always looking to collaborate with more Open Source projects
@@ -21,9 +21,6 @@ Hi, I'm Aya! I am a Mobile Developer. I love learning new technology and skills 
 [<img align="left" alt="ay0o5h | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://facebook.com/ay0o5h)
 [<img align="left" alt="ay0o5h | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:aayosh553@gmail.com)
 
-<br/>
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
-<br/>
 <h3>  Languages & Tools I Know... </h3>
 
    <code> <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
