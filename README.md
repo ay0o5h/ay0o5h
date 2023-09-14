@@ -29,13 +29,6 @@ Hi, I'm Aya! I am a Mobile Developer. I love learning new technology and skills 
    <code> <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
   <code> <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg"> </code>
   <code> <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </code>
-
-  
-  <code> <img height="30" src="  https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg
-"> </code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="30"/> </code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></code>
-<code>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql"  height="30"/> </code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"  height="30"/></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="xcode"  height="30"/></code>
 <code><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" height="30"/> </code>
