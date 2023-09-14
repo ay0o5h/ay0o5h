@@ -1,7 +1,7 @@
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Aya </h1>
 
-Hi, I'm Aya! I am a web Developer and mobile Developer. I love learning new technology and skills , I want to work at others country, talk a lot with all sort of people and know more about this world 🤓.
+Hi, I'm Aya! I am a Mobile Developer. I love learning new technology and skills , I want to work at others country, talk a lot with all sort of people and know more about this world 🤓.
 
 <h3> :woman: &nbsp;About Me </h3>
 
@@ -26,15 +26,8 @@ Hi, I'm Aya! I am a web Developer and mobile Developer. I love learning new tech
 <br/>
 <h3>  Languages & Tools I Know... </h3>
 
- 
-   
-   <code> <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> </code>
-   <code> <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
-   <code> <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> </code>
-   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="30"/></code>
-    <code> <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
+   <code> <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
   <code> <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> </code>
-  <code> <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"> </code>
   <code> <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </code>
 
   
