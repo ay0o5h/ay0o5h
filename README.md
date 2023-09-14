@@ -1,9 +1,9 @@
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Aya </h1>
+<h1 align="left">Hi , I'm Aya <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> </h1>
 
 Hi, I'm Aya! I am a Mobile Developer. I love learning new technology and skills , I want to work at others country, talk a lot with all sort of people and know more about this world 🤓.
 
-<h3> :woman: &nbsp;About Me <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> </h3>
+<h3> :woman: &nbsp;About Me  </h3>
 
 - 🔭  I’m currently work as Mobile Developer 
 - 👯 I’m always looking to collaborate with more Open Source projects
