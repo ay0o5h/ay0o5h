@@ -21,6 +21,8 @@ Hi, I'm Aya! I am a Mobile Developer. I love learning new technology and skills.
 [<img align="left" alt="ay0o5h | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://facebook.com/ay0o5h)
 [<img align="left" alt="ay0o5h | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:aayosh553@gmail.com)
 
+<br/>
+
 <h3>  Languages & Tools I Know... </h3>
 
    <code> <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
